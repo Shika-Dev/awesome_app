@@ -1,16 +1,13 @@
 # awesome_app
 
-A new Flutter project.
+A randomized image App using Pexels
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+In this project the repository is in form of package (can be found in folder package).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Unit test are located in the folder test in package/repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Widget test is located in project folder/test
